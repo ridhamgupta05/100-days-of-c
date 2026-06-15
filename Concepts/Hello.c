@@ -1,3 +1,5 @@
+// hello world in C
+
 #include <stdio.h>
 
 int main(void)
@@ -6,4 +8,8 @@ int main(void)
     return 0;
 }
 
-// this is a comment.
+
+// this is a single line comment.
+
+/* this is a multiline comment
+used for detailed explanations. */
