@@ -40,5 +40,8 @@ This repository documents my journey of learning the C programming language. I a
 
 ## Journey Status
 
-Day 0 — Repository created, ready to begin.
+Day 0 - Repository created, ready to begin.
 
+Day 1 - Learned how to compile C Program, Hello World Program, Comments in C program, Variable and their naming conventions, basic output functions.
+
+Day 2 - 
