@@ -2,14 +2,13 @@
 
 ### Learning C one chapter, one program, and one commit at a time.
 
-This repository documents my journey of learning the C programming language from ***C Programming: A Modern Approach (2nd Edition)*** by K. N. King. I am studying the concepts chapter by chapter, writing every example program myself, solving exercises, taking notes, and building small practice programs to strengthen my understanding. All progress is tracked through Git and pushed to GitHub as I learn.
+This repository documents my journey of learning the C programming language. I am studying the concepts chapter by chapter, writing every example program myself, solving exercises, taking notes, and building small practice programs to strengthen my understanding. All progress is tracked through Git and pushed to GitHub as I learn.
 
 ---
 
 ## What You'll Find Here
 
-* Chapter-wise notes
-* Book examples
+* notes
 * Exercise solutions
 * Practice programs
 * Mini-projects
@@ -21,6 +20,11 @@ This repository documents my journey of learning the C programming language from
 
 * **C Programming: A Modern Approach (2nd Edition)** — K. N. King
 * **CS50** (for additional lectures and programming fundamentals)
+* [Neso Academy C Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
+* [C Programming and OOP with Dr. Chuck](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
+* [Pointers in C / C++](https://www.youtube.com/watch?v=zuegQmMdy8M)
+
+
 
 ---
 
@@ -34,14 +38,7 @@ This repository documents my journey of learning the C programming language from
 
 ---
 
-## Progress
-
-* [ ] Chapter 1
-* [ ] Chapter 2
-* [ ] Chapter 3
-
----
-
 ## Journey Status
 
 Day 0 — Repository created, ready to begin.
+
