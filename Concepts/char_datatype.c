@@ -2,6 +2,6 @@
 int main()
 {
     char a = 'M';
-    return 0;
     printf("%c", a);
+    return 0;   
 }    
