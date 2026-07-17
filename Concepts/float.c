@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-    float var1 = 3.1423543451;
+    double var1 = 3.14235434511373842981042;
     printf("%.10f\n", var1);
 }
