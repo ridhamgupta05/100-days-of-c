@@ -10,6 +10,7 @@ int main ()
     
     char variable1 = 65; 
     printf("%d\n", variable1);
-    printf("%c\n", variable1);
+    printf("%c\n", variable1
+    );
     return 0;
 }

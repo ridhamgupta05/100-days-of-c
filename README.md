@@ -38,10 +38,11 @@ This repository documents my journey of learning the C programming language. I a
 
 ---
 
-## Journey Status
+## Concepts learned
 
-Day 0 - Repository created, ready to begin.
+Introduction & Variables
+Topics: Learned how to compile C Program, Hello World Program, Comments in C program, Variable and their naming conventions, basic output functions.
 
-Day 1 - Learned how to compile C Program, Hello World Program, Comments in C program, Variable and their naming conventions, basic output functions.
+Fundamental Data Types
+Topics:  Learned Integer datatypes, Characters (char datatype), Floats, Doubles, and what happens when you exceed valid ranges.
 
-Day 2 - 
