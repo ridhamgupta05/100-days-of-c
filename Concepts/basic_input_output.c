@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int a, b, res;
-
 int main()
 {
+    int a, b, res;
+
     printf("Enter your 1st number: ");
     scanf("%d", &a);
 
@@ -13,7 +13,6 @@ int main()
     res = a + b;
 
     printf("Sum is: %d\n", res);
-    printf("Ricker: '");
 
     return 0;
 }
