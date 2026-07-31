@@ -1,4 +1,4 @@
-//Probelm Statement
+//Problem Statement
 /* The college cafeteria has introduced a smart billing system. A student purchases food 
 items worth a certain amount. If the bill is more than ₹500, a 10% discount is applied. 
 However, students with a valid college ID receive an additional 5% discount on the 
@@ -20,7 +20,6 @@ int main()
         return 0;
     }
 
-        
     //taking valid college id input
     printf("College ID? (1=Yes, 0=No): ");
     scanf("%d", &collegeID);
