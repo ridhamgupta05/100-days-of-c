@@ -20,6 +20,7 @@ int main()
         return 0;
     }
 
+
     //taking valid college id input
     printf("College ID? (1=Yes, 0=No): ");
     scanf("%d", &collegeID);

@@ -1,3 +1,9 @@
+/*The university library allows students to renew their membership only if they have 
+returned all borrowed books and paid any outstanding fine. A student enters the number 
+of books currently borrowed, the total fine amount, and whether they possess a valid 
+student ID card. Display whether the membership can be renewed. If it cannot, display 
+the exact reason(s).*/
+
 #include <stdio.h>
 
 int main()
