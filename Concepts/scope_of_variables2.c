@@ -5,6 +5,3 @@ int main()
     var = 4;
     printf("%d\n", var);
 }
-
-
-
