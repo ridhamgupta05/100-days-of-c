@@ -7,7 +7,7 @@ int main ()
 	printf("Enter number: \t");
 	scanf("%d", &number);
 	
-	if (50<=number & number<=100)
+	if ((50<=number) && (number<=100))
 	{
 		printf("\n%d lies between 50 to 100.", number);
 	}
